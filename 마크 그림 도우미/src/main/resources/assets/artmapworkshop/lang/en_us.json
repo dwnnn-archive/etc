@@ -1,0 +1,15 @@
+{
+  "key.artmapworkshop.capture_color_id": "Log actual map color IDs of aimed pixel",
+  "key.categories.artmapworkshop": "ArtMap Workshop",
+  "key.artmapworkshop.detect": "Detect ItemFrame canvas",
+  "key.artmapworkshop.toggle3d": "Toggle 3D overlay",
+  "key.artmapworkshop.load": "Reload image",
+  "key.artmapworkshop.menu": "Open ArtMap Workshop",
+  "key.artmapworkshop.prev_tile": "Previous 32x32 canvas",
+  "key.artmapworkshop.next_tile": "Next 32x32 canvas",
+  "key.artmapworkshop.focus": "Next focus color",
+  "key.artmapworkshop.done_pixel": "Toggle current pixel complete",
+  "key.artmapworkshop.undo_pixel": "Undo aimed pixel completion",
+  "key.artmapworkshop.clear_tile": "Clear current canvas completion",
+  "key.artmapworkshop.focus_stage": "Next work stage for focused color"
+}

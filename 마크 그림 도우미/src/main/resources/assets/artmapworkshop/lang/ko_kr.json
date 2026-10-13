@@ -1,0 +1,15 @@
+{
+  "key.artmapworkshop.capture_color_id": "조준한 칸의 실제 지도 색상 ID 기록",
+  "key.categories.artmapworkshop": "ArtMap Workshop",
+  "key.artmapworkshop.detect": "ItemFrame 캔버스 감지",
+  "key.artmapworkshop.toggle3d": "3D 오버레이 ON/OFF",
+  "key.artmapworkshop.load": "이미지 다시 불러오기",
+  "key.artmapworkshop.menu": "ArtMap Workshop 메뉴",
+  "key.artmapworkshop.prev_tile": "이전 32x32 캔버스",
+  "key.artmapworkshop.next_tile": "다음 32x32 캔버스",
+  "key.artmapworkshop.focus": "다음 색상 집중",
+  "key.artmapworkshop.done_pixel": "현재 픽셀 완료",
+  "key.artmapworkshop.undo_pixel": "조준 픽셀 완료 되돌리기",
+  "key.artmapworkshop.clear_tile": "현재 캔버스 완료 전체 취소",
+  "key.artmapworkshop.focus_stage": "현재 색상 작업 단계 변경"
+}
